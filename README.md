@@ -10,5 +10,5 @@ A website that offers fitness training services.
 ## Website
 https://lernantino.github.io/run-buddy/
 
-## Contributiom
+## Contribution
 Made with ❤️ by Bruce Anthony II
